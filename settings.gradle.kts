@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MiPrimerAppAndroid"
+rootProject.name = "ProfileValidator"
 include(":app")
